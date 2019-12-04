@@ -11,8 +11,9 @@ koa 后端跨域及http缓存处理 &amp;&amp;　koa缓存中间件
 >cnpm i $$ nodemon
 
 # 项目结构
-
-> model 数据模板
+```
+model 数据模板
 middleware 中间件(缓存/跨域)
 routes 路由
 app.js 主入口
+```
