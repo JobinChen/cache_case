@@ -12,6 +12,7 @@
   "dependencies": {
     "koa": "^2.11.0",
     "koa-router": "^7.4.0",
-    "memory-cache": "^0.2.0"
+    "memory-cache": "^0.2.0",
+    "node-cron": "^2.0.3"
   }
 }
